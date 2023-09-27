@@ -1,0 +1,26 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Oberstone(2009)]{oberstone2009differentiating}
+Joel Oberstone.
+\newblock Differentiating the top {E}nglish premier league football clubs from
+  the rest of the pack: {I}dentifying the keys to success.
+\newblock \emph{Journal of Quantitative Analysis in Sports}, 5\penalty0 (3),
+  2009.
+
+\bibitem[Talovi{\'c} et~al.(2018)Talovi{\'c}, Denis, Ali{\'c},
+  Jele{\v{s}}kovi{\'c}, Enes, Ormanovi{\'c}, Lakota, Nurkovi{\'c},
+  Rai{\v{c}}kovi{\'c}, and {\v{C}}ovi{\'c}]{talovic2018strength}
+Munir Talovi{\'c}, {\v{C}}au{\v{s}}evi{\'c} Denis, Haris Ali{\'c}, Eldin
+  Jele{\v{s}}kovi{\'c}, {\DJ}ozi{\'c} Enes, {\v{S}}emso Ormanovi{\'c}, Rasim
+  Lakota, Nermin Nurkovi{\'c}, Niko Rai{\v{c}}kovi{\'c}, and Nedim
+  {\v{C}}ovi{\'c}.
+\newblock Strength asymmetry differences between premier league and first
+  league football referees.
+\newblock \emph{Acta Kinesiologica}, 1:\penalty0 86--92, 2018.
+
+\end{thebibliography}
